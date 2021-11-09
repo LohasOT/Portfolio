@@ -1,3 +1,11 @@
+body {
+  background-image: url('https://i.pinimg.com/originals/92/33/80/92338017c079bea4f1250ed4a3056117.gif');
+  background-size: cover;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
 .container {
   display: flex;
   width: 100%;
