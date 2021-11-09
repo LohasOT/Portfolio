@@ -39,6 +39,7 @@ body {
   padding: 15px;
   margin-top: 50%;
   width: 100%;
+  position: absolute;
 }
 
 .catpic {
@@ -87,6 +88,16 @@ body {
 .col-md-4 {
   flex: auto;
   width: 33.3%;
+}
+
+.footerdiv {
+  position: relative;
+  background-color: #E89119;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  width: 100%;
+  position: absolute;
 }
 
 @media screen and (max-width: 600px) {
@@ -166,5 +177,8 @@ body {
   .col-md-4 {
     flex: auto;
     width: auto;
+  }
+  .footerdiv {
+    position: relative;
   }
 }
