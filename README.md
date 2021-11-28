@@ -10,8 +10,8 @@ This is a portfolio about me. My contact infos and my previous work. There are m
 
 https://lohasot.github.io/Portfolio/
 
-<img src="https://user-images.githubusercontent.com/91640571/141206858-06e2e2e6-fe08-44d5-b56b-f2f39d3ae3cb.jpg">
+<img src="https://user-images.githubusercontent.com/91640571/143762205-b3bcf670-f091-4ee1-a860-1193b0d6b3f0.jpg">
 
-<img src="https://user-images.githubusercontent.com/91640571/141206990-04453947-b551-4a3f-90f5-5a0f476ec828.jpg">
+<img src="https://user-images.githubusercontent.com/91640571/143762218-66303504-604b-45b8-b5b8-899679ef0cb4.jpg">
 
-<img src="https://user-images.githubusercontent.com/91640571/141207108-e7f76fee-872a-4bc8-9649-0365440f2366.jpg">
+<img src="https://user-images.githubusercontent.com/91640571/143762223-795a85cf-dea3-4c37-9038-1c47e2b99dbd.jpg">
